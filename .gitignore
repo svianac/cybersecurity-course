@@ -1,0 +1,9 @@
+.env
+*.pem
+*.key
+*.p12
+secrets/
+tokens.txt
+credentials.txt
+__pycache__/
+*.pyc
